@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "589727290487",
+    "firebase_url": "https://fir-todo-cbaac.firebaseio.com",
+    "project_id": "fir-todo-cbaac",
+    "storage_bucket": "fir-todo-cbaac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589727290487:android:b179e6bcd180b1619de272",
+        "android_client_info": {
+          "package_name": "com.paivadev.firebasetodopp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589727290487-popeumg9v9pgfgkhkqd8av6cci7rv6sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZLmHvtrnW1iJHtrszTL9VHhyDSg3FZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589727290487-popeumg9v9pgfgkhkqd8av6cci7rv6sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
